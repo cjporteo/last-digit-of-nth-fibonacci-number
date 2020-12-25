@@ -1,6 +1,6 @@
 # Last Digit of Nth Fibonacci Number
 
-The question: "the 7th Fibonacci number is 13, and its last digit is 3. What is the last digit of the 7777th Fibonacci number?"
+The question: "The 7th Fibonacci number is 13, and its last digit is 3. What is the last digit of the 7777th Fibonacci number?"
 
 ## ⬆ Going above and beyond ⏳
 
