@@ -8,6 +8,6 @@ Solving this for N=7777 isn't that hard at all. But what if we wanted to solve t
 
 ## 🧐 Solution
 
-Jupyter notebook [here](https://github.com/cjporteo/hopper-data-puzzle/blob/main/puzzle.ipynb)!
+Jupyter notebook [here](https://github.com/cjporteo/last-digit-of-nth-fibonacci-number/blob/main/last-digit-of-nth-fibonacci-number.ipynb)!
 
 TL;DR: 7
